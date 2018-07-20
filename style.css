@@ -1,7 +1,10 @@
 body {
-  background-color: darkslategray;
   text-align: center;
   font-family: monospace;
-  color: lightgray;
+}
+
+ul {
   list-style-position: inside;
+  text-align: left;
+  margin: 0 40%;
 }
