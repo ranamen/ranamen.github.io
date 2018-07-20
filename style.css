@@ -4,12 +4,9 @@ body {
 }
 
 ul {
+  width: 20em;
   list-style-position: inside;
   text-align: left;
-}
-
-@media only screen and (min-width: 768px) {
-  ul {
-    padding-left: 45%;
-  }
+  padding: 0;
+  margin: auto;
 }
