@@ -5,4 +5,5 @@ body {
   text-align: center;
   font-family: monospace;
   color: lightgray;
+  list-style-position: inside;
 }
